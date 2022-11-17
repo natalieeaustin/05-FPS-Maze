@@ -7,7 +7,11 @@ Description
 Which features you included
 
 ## References
-Kenney L _Platformer Kit
+Kenney.nl _Platformer Kit
+Kenney.nl _Blocky Characters
+freesounds.org _zombie snarl / coins
+Patrick de Arteaga _background music
+
 ## Future Development
 
 ## Created by
