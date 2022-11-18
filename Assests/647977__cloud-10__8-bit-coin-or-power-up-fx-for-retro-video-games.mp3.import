@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/647977__cloud-10__8-bit-coin-or-power-up-fx-for-retro-video-games.mp3-a132453e9c93bda658f7568a3409b134.mp3str"
+
+[deps]
+
+source_file="res://Assests/647977__cloud-10__8-bit-coin-or-power-up-fx-for-retro-video-games.mp3"
+dest_files=[ "res://.import/647977__cloud-10__8-bit-coin-or-power-up-fx-for-retro-video-games.mp3-a132453e9c93bda658f7568a3409b134.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
