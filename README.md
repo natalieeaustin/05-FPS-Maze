@@ -5,8 +5,6 @@ Build a 3D model interactive maze.
 ## Implementation
 Basic Solution 
 
-Destructable Terrain 
-
 2 Players 
 
 ## References
