@@ -1,10 +1,13 @@
 # 05-FPS-Maze
-Context and date
-
-Description
+November 17, 2022
+Build a 3D model interactive maze. 
 
 ## Implementation
-Which features you included
+Basic Solution 
+
+Destructable Terrain 
+
+2 Players 
 
 ## References
 Kenney.nl _Platformer Kit
@@ -13,6 +16,7 @@ freesounds.org _zombie snarl / coins
 Patrick de Arteaga _background music
 
 ## Future Development
+None 
 
 ## Created by
 Natalie Austin
